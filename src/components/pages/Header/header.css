@@ -1,0 +1,16 @@
+.color-nav {
+  background-color: black;
+  color: red;
+}
+.nav-link.active {
+  color: red !important;
+  text-decoration: underline double red;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+  text-decoration-style: double;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 8px;
+}
+.nav-link {
+  color: white !important;
+}
